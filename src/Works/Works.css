@@ -1,0 +1,33 @@
+.w-banner-img{
+    background-image: url(../images/Works/Workdetails/Wd-banner-0.png);
+}
+
+.wbimg-0{
+    background-image: url(../images/Works/Workdetails/work-0/wbimg-0.png);
+}
+.wbimg-1{
+    background-image: url(../images/Works/Workdetails/work-1/wbimg-1.png);
+}
+.wbimg-2{
+    background-image: url(../images/Works/Workdetails/work-2/wbimg-2.png);
+}
+.wbimg-3{
+    background-image: url(../images/Works/Workdetails/work-3/wbimg-3.png);
+}
+
+
+
+@media (max-width: 767px) {
+    .new-tabs li{
+        margin: 0 15px;
+    }
+    
+    .new-tabs li .nav-link.active{
+        font-size: 12px;
+        border-bottom: 5px solid #FECB5E;
+    }
+    
+    .new-tabs li .nav-link{
+        font-size: 12px;
+    }
+}

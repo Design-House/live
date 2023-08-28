@@ -1,0 +1,250 @@
+@media (max-width: 1199.98px) { 
+    .banner-yellow{
+        width: 200px;
+    }
+    .banner-innerpage{
+        background-position-x: 200px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .footer-link a{
+        padding: 0 5px;
+        margin: 0 2px;
+    }
+    
+    .banner-wrapper{
+        padding-top: 200px !important; 
+        padding-bottom: 32px !important; 
+    }
+    .section-wrap{
+        padding: 90px 0 ;
+    }
+    .s-wrap{
+        margin-bottom: 50px;
+    }
+    .img-md-100{
+        width: 100% !important;
+    }
+    .menu-img
+    {
+        left: 15rem;
+    }
+    .inner-head-img{
+        height: 260px;
+        width: 260px;
+        top: 0px;
+    }
+    .banner-yellow{
+        width: 110px;
+    }
+    .banner-innerpage{
+        background-position-x: 110px;
+    }
+    .clr-100{
+        height: 50px;
+    }
+    .side-image .w-images{
+        opacity: 1;
+        margin-bottom: 50px;
+    }
+    
+ 
+    .back-icon{
+        width: 62px !important;
+        height: 10px !important;
+    
+    }
+    .left-arrow-txt{
+        top: -20px !important;
+        left: 100px !important;
+    }
+    .lg-txt{
+        font-size: 16px;
+    }  
+    .lh-40{
+        line-height: 26px;
+    }
+    
+}
+@media (max-width: 767.98px) {
+    .footer-logo {
+        padding-top: 0px;
+    }
+    .footer-contact
+    {
+        background-size: 200px;
+        background-position-x: 60%;
+    }
+    .footer-contact h2{
+        font-size: 50px;
+    }
+    .footer-contact a{
+        font-size: 24px;
+    }
+    .section-wrap{
+        padding: 60px 0 ;
+    }
+    .footer-bottom{
+        margin-bottom: 60px;
+    }
+    .img-sm-100{
+        width: 100% !important;
+    }
+    .max-sm-b-50{
+        margin-bottom: 50px;
+    }
+    .stories-content {
+        padding: 0 30px;
+    }
+    .menu-img{
+        left: 5rem;
+        width: 260px;
+        height: 260px;
+    }
+    .inner-head-img {
+        height: 60px;
+        width: 60px;
+        top: -15px;
+        right: 15px;
+    }
+    .banner-yellow{
+        width: 0px;
+    }
+    .banner-innerpage{
+        background-position-x: 0px;
+    }
+    .j-wrapper{
+        top:-50px !important
+    }
+    .dynamic-blogcontent{
+        margin-top: 50px !important;
+    }
+
+}
+
+@media (min-width: 1600px) {
+    .journal-banner-wrapper {
+        padding-top: 450px !important;
+        padding-bottom: 250px !important;
+    }
+}
+
+@media (min-width: 1200px) { 
+    .container, .container-lg, .container-md, .container-sm, .container-xl{
+        max-width: 1140px !important;
+    }
+    .md-pr-50{
+        padding-right: 50px;
+    }
+
+    /* .animate-work:hover .w-wrap {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+    } */
+    .w-wrap{
+        position: absolute;
+        width: 600px;
+        bottom: -2rem;
+        left: 5rem;
+        transition: 1.5s;
+    }
+    .w-header, .w-content
+    {
+        width: 504px;
+    }
+    .box-right{
+        left: -5rem;
+    }
+    .menu-img
+    {
+        left: 35rem !important; 
+    }
+    .banner-yellow{
+        width: 300px;
+    }
+    .banner-innerpage{
+        background-position-x: 300px;
+    }
+
+}
+
+@media (min-width: 992px) { 
+
+    .header-content h2{
+        font-size: 62px;
+    }
+    .inner-header h2{
+        font-size: 42px;
+    }
+    .section-head h2{
+        font-size: 48px;
+    }
+    .s-wrap{
+        padding: 0 30px !important;
+    }
+    .min-lg-f80{
+        font-size: 60px;
+    }
+    .header-menu ul li a{
+        font-size: 60px;
+    }
+    .menu-img
+    {
+        left: 25rem;
+    }
+    .capabilities-content
+    {
+        width: 900px;
+        margin: 0 auto;
+    }
+    .capabilities-content .col-md-4{
+        padding: 0 60px;
+    }
+    .side-image
+    {
+    position: absolute;
+    right: -15px;
+    top: 0;
+    width: 50%;
+    height: 100%;
+
+    }
+   
+
+}
+
+@media (min-width: 768px) { 
+    .inner-header{
+        padding-right: 40%;
+      }
+}
+
+@media (max-width: 570px) { 
+    .people{
+        width: 340px;
+        margin: 0 auto;
+    }
+    .people .col-sm-6{
+        flex: 0 0 auto;
+        width: 50%;
+    }
+    .people .people-name{
+        font-size: 16px;
+    }
+    .people .role-txt{
+        font-size: 10px;
+    }
+    .newbadge{
+        display: inline-block;
+    }
+
+    .journal-banner-wrapper{
+        padding-top: 160px !important;
+    padding-bottom: 60px !important;
+    }
+}
+

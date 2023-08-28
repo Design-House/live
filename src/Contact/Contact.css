@@ -1,0 +1,26 @@
+.contact-txthead{
+    margin-top: -40px;
+    margin-bottom: 60px;
+}
+.greylabel{
+    color: #999999;
+}
+a{
+    color: #3100D3;
+}
+.form-label{
+    margin-top: 25px;
+}
+
+.c-form-wrapper .form-control, .c-form-wrapper .form-select, .form-check-input, .c-form-wrapper .form-check-input {
+    border-radius: 0px;
+}
+.c-form-wrapper .form-control:focus, .c-form-wrapper .form-select:focus, .c-form-wrapper .form-check-input:focus{
+    border-color: #FFC843;
+    box-shadow: 0 0 5px 0.25rem hsl(36deg 100% 50% / 4%)
+}
+
+.c-form-wrapper .form-check-input:checked{
+    background-color: #3100d3;
+    border-color: #3100d3;
+}

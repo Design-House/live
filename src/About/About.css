@@ -1,0 +1,23 @@
+.people-img{
+    filter: grayscale(100%);
+}
+.people-name{
+color: #444242;
+font-size: 20px;
+}
+.role-txt{
+font-size: 12px;
+margin-bottom: 35px;
+}
+
+@media (min-width: 992px) { 
+    .img-right {
+        order: 6!important;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .w-header h4 {
+        margin-top: 30px;
+    }
+}

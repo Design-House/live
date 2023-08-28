@@ -1,0 +1,62 @@
+.inner-head-img{
+    height: 360px;
+    width: 360px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: -50px;
+    right: 0;
+    transition: transform 250ms;
+   
+  }
+  .inner-header{
+    position: relative;
+  }
+  .blog .inner-head-img{
+    background-image: url("../../images/Innerbanner/h-blog.png");
+  }
+  .contact .inner-head-img{
+    background-image: url("../../images/Innerbanner/h-contact.png");
+  }
+  .services .inner-head-img{
+    background-image: url("../../images/Innerbanner/h-service.png");
+  }
+  .about .inner-head-img{
+    background-image: url("../../images/Innerbanner/h-about.png");
+  }
+  .works .inner-head-img{
+    background-image: url("../../images/Innerbanner/h-work.png");
+  }
+
+  
+
+
+@media (min-width: 992px){
+    .min-lg-f80 {
+        font-size: 60px;
+    }
+}
+@media (min-width: 768px){
+    .inner-header {
+        padding-right: 40%;
+    }
+}
+
+
+
+@media (max-width: 991.98px){
+    .inner-head-img {
+        height: 260px;
+        width: 260px;
+        top: 0px;
+    }
+}
+@media (max-width: 767.98px){
+    .inner-head-img {
+        height: 60px;
+        width: 60px;
+        top: -15px;
+        right: 15px;
+    }
+}

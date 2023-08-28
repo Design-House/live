@@ -1,0 +1,25 @@
+.scrolls{
+    position: fixed; 
+    width: 94%;
+    left: 50%;
+    bottom: 250px;
+    height: 0px;
+    font-size: 3rem;
+    z-index: 1;
+    cursor: pointer;
+    color: #3100D3;
+    border: 0;
+    background: none;
+}
+.scrolls svg{
+    width: 32px;
+}
+
+@media (max-width: 991.98px) {
+    .scrolls{
+        width: 88%;
+    }
+    .scrolls svg{
+        width: 24px;
+    }
+    }

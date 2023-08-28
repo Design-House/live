@@ -1,0 +1,102 @@
+[
+    {
+       "id": "0",
+       "tmImg": "images/About/Teams/t-member-a-1.png",
+       "tmName": "Arun",
+       "tmRole": "Associate UX engineer"
+    },
+    {
+        "id": "1",
+        "tmImg": "images/About/Teams/t-member-b-1.png",
+        "tmName": "Babushekar",
+        "tmRole": "Associate Director"
+     },
+     {
+        "id": "2",
+        "tmImg": "images/About/Teams/t-member-b-2.png",
+        "tmName": "Barathkumar",
+        "tmRole": "Lead UX Engineer"
+     },
+     {
+        "id": "3",
+        "tmImg": "images/About/Teams/t-member-b-3.png",
+        "tmName": "Binu",
+        "tmRole": "Associate Director"
+     },
+
+     {
+      "id": "4",
+      "tmImg": "images/About/Teams/t-member-d-1.png",
+      "tmName": "Dharani",
+      "tmRole": "Associate UX engineer"
+   },
+   {
+       "id": "5",
+       "tmImg": "images/About/Teams/t-member-g-1.png",
+       "tmName": "Gopi",
+       "tmRole": "Senior Creative Lead"
+    },
+    {
+       "id": "6",
+       "tmImg": "images/About/Teams/t-member-k-1.png",
+       "tmName": "Keerthana",
+       "tmRole": "Associate UX engineer"
+    },
+    {
+       "id": "7",
+       "tmImg": "images/About/Teams/t-member-k-2.png",
+       "tmName": "Kishor",
+       "tmRole": "Director"
+    },
+
+    {
+      "id": "8",
+      "tmImg": "images/About/Teams/t-member-m-1.png",
+      "tmName": "Meenakshi",
+      "tmRole": "Associate UX engineer"
+   },
+   {
+       "id": "9",
+       "tmImg": "images/About/Teams/t-member-n-1.png",
+       "tmName": "Noufal",
+       "tmRole": "Lead UX engineer"
+    },
+    {
+       "id": "10",
+       "tmImg": "images/About/Teams/t-member-p-1.png",
+       "tmName": "Praveen",
+       "tmRole": "Associate UX engineer"
+    },
+    {
+       "id": "11",
+       "tmImg": "images/About/Teams/t-member-s-1.png",
+       "tmName": "Sathish",
+       "tmRole": "Creative Lead"
+    },
+    {
+      "id": "12",
+      "tmImg": "images/About/Teams/t-member-s-2.png",
+      "tmName": "Sathvi",
+       "tmRole": "UX engineer"
+   },
+   {
+       "id": "13",
+       "tmImg": "images/About/Teams/t-member-s-3.png",
+       "tmName": "Sidhardhan",
+      "tmRole": "Senior Creative Lead"
+    },
+    {
+       "id": "14",
+       "tmImg": "images/About/Teams/t-member-s-4.png",
+       "tmName": "Sumesh",
+       "tmRole": "Associate Creative Manager"
+    },
+    {
+       "id": "15",
+       "tmImg": "images/About/Teams/t-member-s-5.png",
+       "tmName": "Swetha",
+       "tmRole": "UX engineer"
+    }
+
+ 
+]

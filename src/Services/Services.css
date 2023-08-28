@@ -1,0 +1,60 @@
+.newbadge{
+    background-color: #FECB5E;
+    color: #060505;
+    border-radius: none !important;
+    margin: 3px;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 3px 7px;
+}
+
+.sbannerimg-0 {
+    background-image: url(../images/Services/Servdetails/Servdetails-0.png ) 
+}
+.sbannerimg-1 {
+    background-image: url(../images/Services/Servdetails/Servdetails-1.png ) 
+}
+.sbannerimg-2 {
+    background-image: url(../images/Services/Servdetails/Servdetails-2.png ) 
+}
+.sbannerimg-3 {
+    background-image: url(../images/Services/Servdetails/Servdetails-3.png ) 
+}
+.sbannerimg-4 {
+    background-image: url(../images/Services/Servdetails/Servdetails-4.png ) 
+}
+.sbannerimg-5 {
+    background-image: url(../images/Services/Servdetails/Servdetails-5.png ) 
+}
+.sbannerimg-6 {
+    background-image: url(../images/Services/Servdetails/Servdetails-6.png ) 
+}
+.sbannerimg-7 {
+    background-image: url(../images/Services/Servdetails/Servdetails-7.png ) 
+}
+.yellowheader, .header-content{
+    position: relative;
+}
+
+.yellowline{
+    height: 20px;
+    
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+   
+    background-color: #FECB5E;
+}
+.yl-50{
+    width: 50%;
+}
+.yl-100{
+    width: 100%;
+}
+
+@media (max-width: 991.98px) 
+{
+    .yellowline{
+        display: none;
+    }   
+}

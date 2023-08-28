@@ -1,0 +1,57 @@
+
+.faq-wrap .card{
+  border: 0;
+}
+.accordion{
+  border: 0;
+}
+.accordion .accordion__item:first-child {
+  border-top: 0;
+}
+
+.accordion__item {
+  background-color: #fff !important;
+  border-top: 1px solid rgba(0,0,0,.125);
+}
+.accordion__button h5{
+  font-size: 16px;
+  margin: 0;
+  margin-right: 30px;
+}
+.accordion__button{
+  background-color: #fff !important;
+  font-weight: bold;
+  position: relative;
+}
+.accordion__button:before
+{
+  position: absolute;
+  right: 14px;
+  top: 24px;
+}
+
+  .accordion-content {
+    background-color: white;
+    border-left: 1px solid whitesmoke;
+    border-right: 1px solid whitesmoke;
+    padding: 0 20px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-in-out;
+  }
+
+  .accordion__button:hover{
+    background-color: #fafafa !important;
+  }
+.accordion__button:before {
+    transform: rotate(45deg) !important;
+}
+  
+.accordion__button[aria-expanded='true']::before, .accordion__button[aria-selected='true']::before {
+    transform: rotate(225deg) !important;
+}
+
+.accordion__button[aria-expanded=true]:hover, .accordion__button[aria-selected=true]:hover{
+  background-color: #fff !important;
+  cursor: auto;
+}
