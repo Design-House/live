@@ -39,7 +39,7 @@ const Servicedetails = () => {
                               <div className="inner-header inner-about">
                                   <div className="back mt-3">
                                       <span className="back-icon"></span>
-                                      <Link className="left-arrow-txt links" to="/designhouse/services">Back to Services </Link>
+                                      <Link className="left-arrow-txt links" to="/services">Back to Services </Link>
                                   </div>
       
                                   <h2   className="mb-5 mt-3">{post.title}</h2>

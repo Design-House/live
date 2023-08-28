@@ -24,7 +24,7 @@ const Workshome = () => {
 A smart application to manage the design deliverables to enhance Productivity and Time Management.</p>
                                 </div>
                                 <div className="readmore">
-                                    <Link to="/designhouse/works/creative-library" >Read more <span className="readmore-icon"></span></Link>
+                                    <Link to="/works/creative-library" >Read more <span className="readmore-icon"></span></Link>
                                 </div>
                             </div>
                         </div>
@@ -54,7 +54,7 @@ A smart application to manage the design deliverables to enhance Productivity an
                                     <p>An innovative way to promote sustainability among individuals for the creation of positive environmental, social and governance impact. A platform to manage ESG activities effectively.</p>
                                 </div>
                                 <div className="readmore">
-                                    <Link to="/designhouse/works/esg" >Read more <span className="readmore-icon"></span></Link>
+                                    <Link to="/works/esg" >Read more <span className="readmore-icon"></span></Link>
                                 </div>
                             </div>
                         </div>
@@ -73,7 +73,7 @@ A smart application to manage the design deliverables to enhance Productivity an
                                     <p>First impression is the best impression” it’s  not just a saying, but a psychological fact in the case of people’s experience with a service, product or organisation, and hence it is important in employee onboarding experience.</p>
                                 </div>
                                 <div className="readmore">
-                                    <Link to="/designhouse/works/service-design" >Read more <span className="readmore-icon"></span></Link>
+                                    <Link to="/works/service-design" >Read more <span className="readmore-icon"></span></Link>
                                 </div>
                             </div>
                         </div>
@@ -87,7 +87,7 @@ A smart application to manage the design deliverables to enhance Productivity an
                     <div className="clr clr-50"></div>
                 </div>
                 <div className="section-bottom text-center pt-3 mt-5"  data-aos="fade-up">
-                    <Link to="/designhouse/works" className="btn btn-primary new-primary" >See more work  <img src={Arrow} alt="" title="" /></Link>
+                    <Link to="/works" className="btn btn-primary new-primary" >See more work  <img src={Arrow} alt="" title="" /></Link>
                 </div>
                 
             </div>

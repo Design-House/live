@@ -19,7 +19,7 @@ const Footer = () => {
                         </div>
                         <div className="col-md-6 col-sm-12">
                             <div className="footer-logo text-md-end"  >
-                            <a href="/designhouse"> <img src={wns} alt="" title="" className='dhlogo' /> </a>
+                            <a href=""> <img src={wns} alt="" title="" className='dhlogo' /> </a>
                             </div>
                         </div>
                     </div>
@@ -37,11 +37,11 @@ const Footer = () => {
                         </div>
                         <div className="col-md-6 col-sm-12">
                             <div className="footer-link text-md-end ">
-                                <Link to="/designhouse/about" className='links'>About</Link>
-                                <Link to="/designhouse/services" className='links'>Services</Link>
-                                <Link to="/designhouse/works" className='links'>Works</Link>
-                                <Link to="/designhouse/blog" className='links'>Blog</Link>
-                                <Link to="/designhouse/contact" className='links'>Contact</Link>
+                                <Link to="/about" className='links'>About</Link>
+                                <Link to="/services" className='links'>Services</Link>
+                                <Link to="/works" className='links'>Works</Link>
+                                <Link to="/blog" className='links'>Blog</Link>
+                                <Link to="/contact" className='links'>Contact</Link>
                             </div>
                         </div>
                     </div>

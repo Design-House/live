@@ -26,7 +26,7 @@ const Stories = () => {
                                 <p>User experience (UX) is a critical aspect of any product design process. UX design focuses on creating meaningful experiences for users by… </p>
                             </div>
                             <div className="readmore">
-                                <Link to="/designhouse/blog/when-to-involve-the-ux-team">Read more <span className="readmore-icon"></span></Link>
+                                <Link to="/blog/when-to-involve-the-ux-team">Read more <span className="readmore-icon"></span></Link>
                             </div>
                         </div>
 
@@ -41,7 +41,7 @@ const Stories = () => {
                                 <p>User research is the process of gathering information about users to understand their needs, pain points, behaviours, and preferences.</p>
                             </div>
                             <div className="readmore">
-                                <Link to="/designhouse/blog/importance-of-user-research">Read more <span className="readmore-icon"></span></Link>
+                                <Link to="/blog/importance-of-user-research">Read more <span className="readmore-icon"></span></Link>
                             </div>
                         </div>
 
@@ -56,14 +56,14 @@ const Stories = () => {
                                 <p>The User-Centred Design (UCD) process is a design approach that involves understanding the needs and goals of users throughout the design process.</p>
                             </div>
                             <div className="readmore">
-                                <Link to="/designhouse/blog/tool-replace-the-ucd-process">Read more <span className="readmore-icon"></span></Link>
+                                <Link to="/blog/tool-replace-the-ucd-process">Read more <span className="readmore-icon"></span></Link>
                             </div>   
                         </div>      
                                      
                     </div>
                 </div>
                 <div className="section-bottom text-center pt-3 mt-5"  data-aos="fade-up">
-                    <Link to="/designhouse/blog" className="btn btn-primary new-primary" role="button" >See more stories  <img src={Arrow} alt="" title="" /></Link>
+                    <Link to="/blog" className="btn btn-primary new-primary" role="button" >See more stories  <img src={Arrow} alt="" title="" /></Link>
                 </div>
                 
             </div>

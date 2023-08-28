@@ -29,7 +29,7 @@ import PageNotFound from './PageNotFound';
 
 function App() {
   
-  
+  const URL = "live";
 
   useEffect(() => {
     AOS.init();
@@ -43,27 +43,27 @@ function App() {
        
         <Routes>
             <Route path='/' element={<Home />} />
-            <Route path='/designhouse' element={<Home />} />
-            <Route path='/designhouse/home' element={<Home />} />
-            <Route path='/designhouse/about' element={<About />} />
+           
+            <Route path='/home' element={<Home />} />
+            <Route path='/about' element={<About />} />
 
-            <Route path='/designhouse/services' element={< Services />} >
+            <Route path='/services' element={< Services />} >
               <Route index element={<Serviceslist />} />
               <Route path=":slug" element={<Servicedetails />} />
             </Route>
 
-            <Route path='/designhouse/works' element={< Works />} >
+            <Route path='/works' element={< Works />} >
               <Route index element={<Worklist />} />
               <Route path=":slug" element={<Workdetails />} />
             </Route>
             
 
-            <Route path='/designhouse/blog' element={< Blog />} >
+            <Route path='/blog' element={< Blog />} >
               <Route index element={<Bloglist />} />
               <Route path=":slug" element={<Blogdetails/>} />
             </Route>
 
-            <Route path='/designhouse/contact' element={<Contact />} />
+            <Route path='/contact' element={<Contact />} />
 
             <Route path='*' element={ <PageNotFound /> } />
 

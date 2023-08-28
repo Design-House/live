@@ -22,7 +22,7 @@ the required expertise to solve design problems from concept to implementation. 
 strong base in intelligent automation is an added advantage to successfully 
 implementing smart solutions.</p>
                                 <div class="readmore">
-                                    <Link to="/designhouse/about">Explore <span class="readmore-icon"></span></Link>
+                                    <Link to="/about">Explore <span class="readmore-icon"></span></Link>
                                 </div>
 
                                 <div class="w-counts mt-5 ">

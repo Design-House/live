@@ -26,7 +26,7 @@ const Howhelp = () => {
                     </div>
                 </div>
                 <div className="section-bottom text-center mt-5" data-aos="fade-up" >
-                   <Link to="/designhouse/services" className="btn btn-primary new-primary" role="button" >All Services  <img src={Arrow} alt="" title="" /></Link>
+                   <Link to="/services" className="btn btn-primary new-primary" role="button" >All Services  <img src={Arrow} alt="" title="" /></Link>
                 </div>
                 
             </div>
