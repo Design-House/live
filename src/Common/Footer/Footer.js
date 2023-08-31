@@ -31,7 +31,7 @@ const Footer = () => {
                     <div className="row">
                         <div className="col-md-6 col-sm-12">
                             <div className="footer-info text-md-start">
-                                <p className="mb-1">Do not sell my personal information.</p>
+                                
                                 <p>© 2023 WNS VURAM</p>
                             </div>
                         </div>
