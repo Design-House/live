@@ -15,10 +15,10 @@ customer journeys and business models.</h5>
           <p>Our future trend analysis dives deep into the currents of change. We dissect the current mega-trends, scrutinise PESTLE (Political, Economic,
 Social, Technological, Legal, Environmental) shifts, and explore industry innovations and those subtle yet telling weak signals that often foretell the
 future.</p>
-<h4>Foresight workshop</h4>
+<h4 className='mt-5'>Foresight workshop</h4>
 <p>In our Foresight Workshop, we harness collective creativity and insights to forge a path into the future. We collaborate closely with you to envision
 possibilities and illuminate the way forward.</p>
-<h4>Plan & roadmap</h4>
+<h4 className='mt-5'>Plan & roadmap</h4>
 <p>With a treasure trove of ideas and insights at our disposal, we embark on the journey of planning and roadmapping. Our process involves idea
 sketches that breathe life into concepts, daring experiments that push boundaries, and the creation of Future Process/Service/Product Charters
 that set the stage for transformation. The result? Crystal-clear roadmaps that guide you toward your envisioned future.

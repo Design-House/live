@@ -7,16 +7,16 @@ const Servicecontent1 = () => {
   return (
     <div className='mb-5'>
 
-      <h5 class="lg-txt lh-40 mt-5">We believe in the power of holistic service design to transform
+      <h5 class="lg-txt lh-40 mt-5 mb-5">We believe in the power of holistic service design to transform
         businesses, streamline operations, and enhance customer
         experiences. Our approach is all-encompassing, ensuring that
         every aspect of your service aligns seamlessly for optimal results,
         both internally and externally.</h5>
-      <h4>Audit your existing service to understand improvement areas</h4>
+      <h4 class="mt-5">Audit your existing service to understand improvement areas</h4>
       <p>Before we embark on any service design journey, we begin by conducting a comprehensive audit of your current services. Our team delves deep
         into your existing processes and service maps, meticulously tracing the user journey. We identify pain points, gaps, and shortcomings to gain
         valuable insights that form the foundation of our design strategy.</p>
-      <h4>Get a holistic picture of all direct and indirect interactions from
+      <h4 class="mt-5">Get a holistic picture of all direct and indirect interactions from
         the service blue print</h4>
       <p>Before we embark on any service design journey, we begin by conducting a comprehensive audit of your current services. Our team delves deep
         into your existing processes and service maps, meticulously tracing the user journey. We identify pain points, gaps, and shortcomings to gain

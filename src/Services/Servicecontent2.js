@@ -42,7 +42,7 @@ const Servicecontent2 = () => {
         </ul>
       </div>
 
-      <h4>How we do it</h4>
+      <h4 class="mt-5" >How we do it</h4>
       <p>Design thinking | Collaboration | Foresight | Communication design</p>
       <img src={ServicedetailsImages.s2.scImg1} className="journal-img mt-5" alt='' title='' ></img>
       <h5 class="lg-txt lh-40 mt-5">Join us on a journey where Design Thinking turns ideas into
