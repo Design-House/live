@@ -11,10 +11,10 @@ const Welcome = () => {
                     <div class="row">
                         <div class="col-md-6 col-sm-12" data-aos="fade-right" >
                             <div class="w-left max-sm-b-50 md-pr-50">
-                                <h2>A WNS Vuram initiative, to perfect automated products and services using research based  <span class="h-text">design practice  <span class="h-textbar"></span></span></h2>
+                                <h2>To co-create innovative,human-centered digital transformations based on user behaviour and <span class="h-text">business objectives.  <span class="h-textbar"></span></span></h2>
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-12" data-aos="fade-left" >
+                        <div class="col-md-6 col-sm-12" data-aos="fade-left" >              
                             <div class="w-right">
                                 <p>It is a team of design thinking consultants, UX architects, user researchers, front-end 
 developers, visual designers, and content creators. Design House is a team with all 
