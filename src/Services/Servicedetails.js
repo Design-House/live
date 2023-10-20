@@ -8,8 +8,6 @@ import Servicecontent2 from './Servicecontent2';
 import Servicecontent3 from './Servicecontent3';
 import Servicecontent5 from './Servicecontent5';
 import Servicecontent4 from './Servicecontent4';
-import Servicecontent6 from './Servicecontent6';
-import Servicecontent7 from './Servicecontent7';
 import './Services.css';
 
 const Servicedetails = () => {
@@ -68,8 +66,7 @@ const Servicedetails = () => {
                             { i===3?<Servicecontent3  />:""}
                             { i===4?<Servicecontent4  />:""}
                             { i===5?<Servicecontent5  />:""}
-                            { i===6?<Servicecontent6  />:""}
-                            { i===7?<Servicecontent7  />:""}
+                           
                     </div>  
                     <br/>
                 </div>

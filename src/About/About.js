@@ -20,8 +20,8 @@ const About = () => {
 
     const data = {
         pageTitle: "About",
-        pageHeading: "The design team giving life to automation",
-        pageContent: "A team of experienced user researchers, UX architects, visual designers, content creators and consultants. An initiative of WNS Vuram. We help organisations to design people-centred solutions.",
+        pageHeading: "A design team co-creating human-centered solutions.",
+        pageContent: "A team of experienced user researchers, UX architects, visual designers, content creators and consultants. An initiative of WNS. We help organisations to design people-centred solutions.",
     };
 
     document.title = "About";
@@ -71,7 +71,7 @@ const About = () => {
                                 <div>
                                     <div className="w-header">
 
-                                        <h4>Humanity centred design</h4>
+                                        <h4>Human centred design</h4>
                                     </div>
                                     <div className="w-content pt-1 mt-3 mb-4">
                                         <p>Human-centered design is a problem-solving approach that puts people at the center of the design process. It involves understanding the needs, wants, and behaviors of the people who will use or interact with the product, service, or system being designed.</p>

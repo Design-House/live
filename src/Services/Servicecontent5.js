@@ -8,21 +8,70 @@ const Servicecontent5 = () => {
       <div className='mb-5'>
       
       <div className='headplus-list  mb-5'>
-          <h4>Our UX audit service includes</h4>
+          <h4>Brand identity design</h4>
           <ul>
-            <li><b>Evaluation of User Interface (UI) Design:</b> We analyse the UI design to ensure that it is visually appealing, easy to use, and aligned with the brand identity. Our UI design evaluation includes an assessment of the layout, typography, colour palette, and overall visual hierarchy.</li>
-            <li><b>Usability Testing:</b> We conduct usability testing to evaluate the effectiveness of your product or service’s user interface and identify areas for improvement. Our usability testing includes user task analysis, heuristic evaluation, and cognitive walkthroughs.</li>
-            <li><b>Accessibility Evaluation:</b> We assess your product or service’s accessibility to ensure that it meets WCAG 2.1 standards and is usable by people with disabilities.</li>
-            <li><b>Content Evaluation:</b> We evaluate the content of your product or service to ensure that it is clear, concise, and easy to understand.</li>
-            <li><b>Performance Evaluation:</b> We evaluate the performance of your product or service to ensure that it is fast, reliable, and responsive.</li>
+            <li><b>Logo design:</b> Create a distinctive and memorable brand mark that encapsulates your identity.</li>
+            <li><b>Brand guidelines:</b> Develop comprehensive guidelines that maintain visual consistency across all touchpoints.</li>
+            
 
           </ul>
+          <h4>Print collateral</h4>
+          <ul>
+            <li><b>Brochures and flyers:</b> Craft informative and visually appealing print materials.</li>
+            <li><b>Business cards:</b> Design professional, attention-grabbing business cards.</li>
+            <li><b>Posters and banners:</b> Create eye-catching promotional materials for events and campaigns.</li>
+            
+            
+
+          </ul>
+          <h4>Digital design</h4>
+          <ul>
+            <li><b>Website design:</b> Craft responsive, user-friendly websites that convey your brand’s essence.</li>
+            <li><b>Social media graphics:</b> Develop engaging visuals for social media platforms to boost online presence.</li>
+            <li><b>Email templates:</b> Design email templates that reflect your brand’s style and messaging.</li>
+            
+            
+
+          </ul>
+          <h4>Packaging design</h4>
+          <ul>
+            <li><b>Product packaging:</b> Design packaging that not only protects but also entices customers.</li>
+            <li><b>Label design:</b> Create attractive labels that communicate product information effectively.</li>
+            
+            
+            
+
+          </ul>
+          <h4>Advertising design</h4>
+          <ul>
+            <li><b>Print and online ads:</b> Craft visually striking advertisements for print and digital channels.</li>
+            <li><b>Campaign materials:</b> Develop creative assets for marketing campaigns that leave a lasting impression.</li>
+          </ul>
+          <h4>Environmental design</h4>
+          <ul>
+            <li><b>Signage and way finding:</b> Enhance the physical environment with clear and engaging signage.</li>
+            <li><b>Retail and interior design:</b> Create immersive in-store experiences that align with your brand.</li>
+          </ul>
+          <h4>Brand strategy</h4>
+          <ul>
+            <li><b>Market research:</b> Gain valuable insights into your target audience and market trends.</li>
+            <li><b>Brand positioning:</b> Define your unique value proposition and competitive edge.</li>
+            <li><b>Messaging and storytelling:</b> Craft compelling narratives that resonate with your audience.</li>
+          </ul>
+          <h4>Brand refresh and rebranding</h4>
+          <ul>
+            <li>Refresh your existing brand to align with current trends and audience preferences.</li>
+            <li>Execute a comprehensive rebranding strategy to revitalise your brand’s image.</li>
+
+          </ul>
+          <h4>Visual content creation</h4>
+          <ul>
+            <li><b>Custom illustrations:</b> Create unique illustrations to enhance your brand’s visual identity.</li>
+            <li><b>Infographics:</b> Present complex information in a visually appealing and digestible format.</li>
+            
+          </ul>
       </div>
-      <p>Our UX audit service provides businesses with a comprehensive evaluation of their product or service’s user experience. We work closely with our clients to understand their business goals and ensure that our recommendations are aligned with those goals. By partnering with our UX audit service, businesses can improve their product or service’s user experience and achieve their business objectives.</p>
-      <p><b>Get our basic service for expert review of your website or application, be it on any platform.</b> <br/>
-        <b>Experienced Analysts will review the application once you explain the context and Usability heuristics.</b><br/>
-        <b>Accessibility standards.</b><br/>
-        <b>Simplified report with recommendations to improve UX.</b></p>
+
       </div>
       )
 }

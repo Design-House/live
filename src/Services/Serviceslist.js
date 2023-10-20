@@ -10,7 +10,7 @@ import Faq from './Faq';
 const Serviceslist = () => {
     const  data ={
         pageTitle: "Services",
-        pageHeading: "User Centred Design for automated solutions",
+        pageHeading: "Solutions crafted with empathy",
         pageContent: "A meaningful design gives life to automated systems. We provide research based designs that will be helpful to the users to solve problems.",
       };
       const dataNew ={ 
@@ -68,7 +68,7 @@ const Serviceslist = () => {
 
     <Capabilities />
 
-    <Faq />
+    {/* <Faq /> */}
     </>
   )
 }

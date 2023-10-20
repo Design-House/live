@@ -1,46 +1,73 @@
 import React from 'react';
-
+import Faq from './Faq';
+import './Services.css';
 
 const Servicecontent0 = () => {
 
 
   return (
+
     <div className='mb-5'>
-        <p>The goal of UX consulting is to help businesses create a user-centred design approach that meets the needs and expectations of their target audience. This is a crucial success factor of any product or service. Our UX consultants have a deep understanding of user psychology, usability principles, and industry best practices, which enables them to provide customised solutions that address specific user experience challenges.</p>
-        <div className='headplus-list mt-5'>
-            <h4>The UX consulting process typically involves the following steps:</h4>
-            <ul>
-              <li><b>Understanding the business goals and user needs:</b> We start by understanding the business objectives, target audience, and user needs. This involves conducting user research, analysing data, and defining user personas.</li>
-              <li><b>Assessing the current user experience:</b> We evaluate the existing user experience to identify areas of improvement. This involves reviewing the product’s usability, user interface, content, and functionality.</li>
-              <li><b>Providing recommendations:</b> Based on our findings, we provide recommendations and solutions that align with the business goals and user needs. These recommendations may include changes to the user interface, information architecture, content strategy, or overall design approach.</li>
-              <li><b>Prototyping and testing:</b> We create prototypes and conduct user testing to validate the recommended solutions and ensure that they meet the needs of the target audience.</li>
-              <li><b>Implementation:</b> Once the recommendations have been validated, we work with the business to implement the changes and optimise the user experience.</li>
-            </ul>
-        </div>
-        <div className='headplus-list mt-5'>
-            <h4>Some of the benefits of UX consulting include:</h4>
-            <ul>
-              <li><b>Improved user satisfaction:</b> By creating a user-centred design, businesses can improve the user experience and increase user satisfaction.</li>
-              <li><b>Increased conversions:</b> A better user experience can lead to increased conversions and improved business performance.</li>
-              <li><b>Competitive advantage:</b> A product that delivers an exceptional user experience can give your business a competitive edge in the marketplace.</li>
-              <li><b>Cost savings:</b> By identifying areas of improvement early on, UX consulting can save businesses money in the long run by preventing costly redesigns or product launches that fail to meet user expectations.</li>
-            </ul>
-          </div>
-        <div className='headplus-content mt-5'>
-          <h4>Design thinking consulting</h4>
-          <p>A problem related to a product or service has to be addressed in 3 angles; business, people and technical. In this business and technical aspects may not require explanation, as it is popular. However the people angle is comparatively less discussed, however it’s very crucial in the success of a product or service(be it internal or external). The people here means the target audience, or the actual users of the product or service. Even stakeholders are not aware of all the challenges and difficulties experienced by the people in actual context of use. Experienced design thinking consultants use proven methods to understand and empathise with the target audience, this  helps the business and technical experts refine the solution, by prioritising the needs, and have a balanced view on the solution.</p>
-        </div>
-
-        <div className='headplus-content mt-5'>
-          <h4>How it works</h4>
-          <p>The design thinking consultant works closely with the business analyst and the technical architect. In the discovery phase the three perspectives are used to analyse the problem to ensure a balanced and optimised solution that solves the right problem.</p>
-        </div>
-
-        <div className='headplus-content mt-5'>
-          <h4>Why design thinking consultants?</h4>
-          <p>Including design thinking consultants in the discovery phase will reduce effort and time to find the right solution for the context of use. They are experts in applying research methodologies to collect data and analyse it in a meaningful way. They can identify the business and technical biases that may affect user experience adversely.</p>
-          <p>In requirement gathering phase design thinking consultant from UX team acts as user advocate and thinks from user’s perspective. This fills the gaps in business and technical views. So inclusion  of design thinking consultants since the requirement gathering phase itself is crucial in finding the right solution that will be really solving the user’s problem.</p>
-        </div>
+      <h5 class="lg-txt lh-40 mt-5">We specialise in the art and science of Experience Design (XD).
+        Our mission is to transform ordinary interactions into
+        extraordinary experiences that captivate, engage, and leave a
+        lasting impression on your users or customers. Allow us to be
+        your trusted partner in crafting remarkable experiences across
+        all touch points of your brand.</h5>
+      <h5 class="lg-txt lh-40 mt-5">Our commitment to human-centered design, also known as XDS
+        or UX (User Experience), empowers us to craft extraordinary user
+        experiences that deliver tangible value and leave a lasting
+        impact.</h5>
+     
+      <div className='headplus-list mt-5'>
+        <h4>What we offer</h4>
+        <ul>
+          <li><b>UX strategy:</b> Our UX Strategy service aligns your design with your business goals, ensuring that every aspect of your user experience serves a
+            strategic purpose.2</li>
+          <li><b>Digital products design:</b> From inception to implementation, we offer end-to-end solutions that ensure your digital products are not only
+            visually stunning but also highly functional and user-friendly.</li>
+          <li><b>UX design:</b> Our UX Design expertise transforms user interactions into seamless journeys, making every interaction a delight for your users.</li>
+          <li><b>Redesign of existing solutions:</b> We breathe new life into your existing solutions by reimagining and optimizing them for enhanced user
+            experiences and improved performance.</li>
+          <li><b>Visual design:</b> Visual appeal meets user functionality in our Visual Design services, where we craft captivating interfaces that engage and
+            inspire.</li>
+          <li><b>UX/UI audit:</b> Our UX/UI Audit dives deep into your digital products, conducting a comprehensive competitive analysis. We identify strengths,
+            weaknesses, and untapped opportunities to enhance your user experience.</li>
+          <li><b>Style guide & design system:</b> We create a library of reusable design elements, components, and guidelines to ensure a consistent look and
+            functionality across your products.</li>
+          <li><b>Wireframing:</b> Our wireframes provide a clear structural blueprint for your project, outlining the essential elements and layout without getting
+            lost in the finer design details.</li>
+          <li><b>Prototyping:</b> With our interactive prototypes, we bring your product to life in a simplified yet engaging manner, allowing you to test and
+            demonstrate functionality and design.</li>
+          <li><b>Design research:</b> Our design research process involves thorough market and product research, user insights, interviews, and the
+            development of personas and empathy maps, ensuring we deeply understand your audience.</li>
+          <li><b>Usability testing:</b> We scrutinise user interactions and experiences across various touchpoints and stages to fine-tune your product for
+            optimal usability.</li>
+          <li><b>Customer journey mapping:</b> Our Customer Journey Mapping service visualises the user’s entire experience, helping you uncover pain points
+            and opportunities for improvement.</li>
+          <li><b>UX workshops:</b> Our interactive UX Workshops foster collaboration and creativity, allowing us to ideate and solve design challenges together.</li>
+          <li><b>Ai-enabled design:</b> We harness the power of AI to enhance your design, delivering personalised and dynamic user experiences.</li>
+          <li><b>Interaction design:</b> Our Interaction Design expertise ensures that every user interaction is intuitive, engaging, and aligned with your brand’s
+            identity.</li>
+          <li><b>Front-end development:</b> We convert visual designs into interactive user interfaces that maintain the best user experience. Our front-End
+            Development service involves: <ul>
+              <li><b>HTML/CSS coding:</b>Convert design mockups into clean, semantic HTML and CSS code.</li>
+              <li><b>JavaScript integration:</b>Implement interactive features and functionality for a dynamic user experience.</li>
+              <li><b>Responsive frameworks:</b>Utilise frameworks like Bootstrap to ensure mobile responsiveness.</li>
+              <li><b>Low code platforms:</b>Appian, Power Apps, UiPath and etc...</li>
+              <li><b>Mobile-first approach:</b>Design websites that provide an exceptional user experience on all devices.</li>
+              <li><b>Cross-browser compatibility:</b>Ensure seamless functionality across various web browsers.</li>
+              <li><b>Accessibility compliance:</b>Make your website accessible to users with disabilities.</li>
+            </ul> </li>
+        </ul>
+      </div>
+      <h5 class="lg-txt lh-40 mt-5">Join hands with us to transform your digital landscape into a
+        realm of exceptional user experiences. Contact us today to
+        embark on a journey where design meets innovation, and your
+        users’ needs lead the way. Together, we’ll create experiences that
+        resonate and deliver results.</h5>
+        <Faq></Faq>
+        <p>Everything you need to know about UX services, please check the FAQs. Can’t find the answer you are looking for? Please write to us,<b> designhouse@vuram.com </b></p>
     </div>
   )
 }

@@ -1,33 +1,33 @@
 [
     {
        "id": "0",
-       "icon": "images/Services/help/help-1.png",
-       "title": "Design Consulting",
-       "content": "The goal of UX design consulting is to help businesses create a user-centred design approach that meets the needs and expectations of their target audience. This is a crucial success factor of any product or service."
+       "icon": "images/Services/help/help-2.png",
+       "title": "Experience design",
+       "content": "Our human-centered approach to design, known as XDS or UX, enables us to create exceptional user experiences that deliver tangible value and impactful results."
     },
     {
         "id": "1",
-        "icon": "images/Services/help/help-2.png",
-        "title": "UX for Automation",
-        "content": "UX for automation is all about creating interfaces that allow users to easily access and control automated processes. We understand that automating processes can be daunting for users, which is why we focus on simplifying the interface and making it as intuitive as possible."
+        "icon": "images/Services/help/help-5.png",
+        "title": "Service design",
+        "content": "This holistic approach optimises both internal and external experiences, offering a comprehensive view of how service components fit together cohesively."
     },
     {
         "id": "2",
-        "icon": "images/Services/help/help-3.png",
-        "title": "Product Design",
-        "content": "Product design from research to development and testing. Our team is dedicated to providing businesses with custom digital product design services that meet their unique needs and exceed their expectations.At Design House, we believe that great digital product design is about more than just aesthetics. "
+        "icon": "images/Services/help/help-1.png",
+        "title": "Design thinking",
+        "content": "Harnessing the power of Design Thinking, we guide strategic decisions, drive innovation, and unlock new business possibilities."
     },
     {
         "id": "3",
-        "icon": "images/Services/help/help-4.png",
-        "title": "UX Audit",
-        "content": "By conducting a thorough evaluation of your product or service’s user experience, we can identify areas for improvement and provide actionable recommendations to enhance the user experience."
+        "icon": "images/Services/help/help-3.png",
+        "title": "Storytelling",
+        "content": "This service transforms complex information into engaging, digestible content, enhancing client conversations and internal communications."
     },
     {
         "id": "4",
-        "icon": "images/Services/help/help-5.png",
-        "title": "Service Design",
-        "content": "Service design is a process of designing and improving services to enhance their user experience. It is a multidisciplinary approach that combines elements from design, user research, and business strategy to create and optimise services that meet the needs of users and businesses."
+        "icon": "images/Services/help/help-4.png",
+        "title": "Future-back",
+        "content": "We help you envision the future by identifying and developing innovative experiences, products, and services that align with evolving customer journeys and business models."
     }
 
     
