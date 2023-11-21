@@ -154,7 +154,7 @@ const About = () => {
                 <div className="contentbanner-wrap">
                     <div className="container">
                         <div className="content-detailspt-5 pb-5">
-                            <div className="w-header  text-center ">
+                            <div className=" text-center ">
                                 <h2 className='mt-5 mb-4'>How we work?</h2>
                             </div>
                             <div className='w-fullimg  text-center '>
