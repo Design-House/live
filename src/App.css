@@ -448,6 +448,10 @@ padding-left: 5rem;
   margin-bottom: 30px;
 }
 
+.pl-0{
+  padding-left: 0 !important;
+}
+
 /*
 .animate-work:hover .w-wrap {
   bottom: 0rem;

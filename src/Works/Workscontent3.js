@@ -4,7 +4,7 @@ const Workscontent3 = () => {
   return (
     <div className='workdetails-inner'>
     <div className="journal-content mt-5">
-                <h5 className="mb-5">First impression is the best impression” it’s  not just a saying, but a psychological fact in the case of people’s experience with a service, product or organization, and hence it is important in employee onboarding experience.</h5>
+                <h5 className="mb-5">"First impression is the best impression” it’s  not just a saying, but a psychological fact in the case of people’s experience with a service, product or organization, and hence it is important in employee onboarding experience.</h5>
                    
                     
                 <p className="mt-3">If this is the case of new joiners the experience of the people who conduct the onboarding activity is equally important. Because the first group’s experience depends on the second group’s approach.</p>

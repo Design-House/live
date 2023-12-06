@@ -13,7 +13,7 @@ const Contactform = () => {
                                 Get Humane-Centered Solutions</h3>
                         </div>
                         <div className="c-form-wrapper">
-                            <p >Fill out the form and our experts will reach you</p>
+                           
                             <form>
                                     
                                     <div className="row">

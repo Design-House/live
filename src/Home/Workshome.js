@@ -20,7 +20,7 @@ const Workshome = () => {
                                     <h4 className="mt-4">A smart Appian application to collaborate with designers</h4>
                                 </div>
                                 <div className="w-content pt-1 mb-3">
-                                    <p>In organisations different teams need communication designs for various contexts, often coordinating with designers is a time-consuming and stressful job. We designed a platform to solve this problem.
+                                    <p>In organisations, different teams need communication designs for various contexts, often communication design tasks are time consuming and stressful job. We designed a platform to solve this problem.
 A smart application to manage the design deliverables to enhance Productivity and Time Management.</p>
                                 </div>
                                 <div className="readmore">
@@ -70,7 +70,7 @@ A smart application to manage the design deliverables to enhance Productivity an
                                     <h4 className="mt-4">Research to improve employee experience, with a focus on onboarding</h4>
                                 </div>
                                 <div className="w-content pt-1 mb-3">
-                                    <p>First impression is the best impression” it’s  not just a saying, but a psychological fact in the case of people’s experience with a service, product or organisation, and hence it is important in employee onboarding experience.</p>
+                                    <p>"First impression is the best impression” it’s  not just a saying, but a psychological fact in the case of people’s experience with a service, product or organisation, and hence it is important in employee onboarding experience.</p>
                                 </div>
                                 <div className="readmore">
                                     <Link to="/works/service-design" >Read more <span className="readmore-icon"></span></Link>

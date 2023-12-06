@@ -11,14 +11,14 @@ const Howhelp = () => {
                     <h2>How we can help you</h2>
                 </div>
                 <div className="help-content text-left">
-                    <div className="row">
+                    <div className="row justify-content-center">
                     {Howconent && Howconent.map(How =>{
                         return(
                         <div className="col-lg-4 col-md-6 col-sm-12" key={How.id} data-aos="fade-up">
                             <div className="h-header">
                                 <h4><span className='help-icon'><img src={How.icon} alt="" title="" /></span><span className="h-text">{How.title}<span className="h-textbar"></span></span></h4>
                             </div>
-                            <div className="h-content p-3 pt-1 mb-3" >
+                            <div className="h-content p-3 pt-1 pl-0 mb-3" >
                                 <p>{How.content}</p>
                             </div>
                         </div>

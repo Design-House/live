@@ -13,7 +13,7 @@ const Contentbanner = (props) => {
                                 <div className="w-content pt-1 mt-3">
                                     <p>Knowing the ‘Why’ of everything was a habit for Vuramites as it helps you to stay closer to the purpose of achieving.
 Being in the business automation journey for more than a decade and now being the pioneers in Hyperautomation services, we constantly have to enrich our solutions with the right balance of humanness by setting the right measure of empathy clubbed to our solutions.
-To enable this need we founded DH, a practice that enforces human centered design to all the customer and employee experience journey at Vuram.</p>
+To enable this need we founded Design House, A practice that implements human-centered design across all customer and employee experience journeys at Vuram.</p>
                                     
                                 </div>
                             </div>
